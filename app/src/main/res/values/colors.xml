@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    // Edit by Chizoba
+    // for AppTheme
+    <color name="colorPrimary">#4667a2</color>
+    <color name="colorPrimaryDark">#375b9b</color>
+    <color name="colorAccent">#00f0fe</color>
+
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorIcon">#FFFFFF</color>
+
+    // for AppThemeLight
+    <color name="colorPrimary2">#FAFAFA</color>
+    <color name="colorPrimaryDark2">#9E9E9E</color>
+    <color name="colorAccent2">#00f0fe</color>
+    <color name="colorAccentSecondary">#375b9b</color>
+
 </resources>
