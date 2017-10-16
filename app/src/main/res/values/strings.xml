@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">One</string>
+
+    <string name="facebook_app_id">787830951420510</string>
+    <string name="fb_login_protocol_scheme">fb787830951420510</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login_facebook">Sign in with Facebook!</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="login_facebook_error_message">An error occurred while connecting to Facebook. \nPlease try again.</string>
+    <string name="sign_in_text">To continue with One, you have to sign in</string>
+    <string name="terms_and_policy_text">By signing in, you agree to our Terms \nand Privacy Policy</string>
+    <string name="list_item_icon">List item icon</string>
+    <string name="user_photo">User photo</string>
+
 </resources>
